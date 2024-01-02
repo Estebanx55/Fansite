@@ -1,0 +1,307 @@
+.imagelogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #A8C494;
+}
+
+.liheader {
+    display: inline;
+    border: 0.2vw #5E2F2F solid;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    background-color: #BB8966;
+    border-radius: 1vw;
+    margin-right: 1vw;
+    margin-left: 1vw;
+}
+
+.ulheader {
+    display: flex;
+    justify-content: center;
+    font-size: 1.5vw;
+    font-weight: 100;
+    font-family: sans-serif;
+    padding: 0;
+}
+
+.linkter:link {
+    color: #685D57;
+    text-decoration: none;
+}
+
+.linkter:visited {
+    color: #685D57;
+    text-decoration: none;
+}
+
+.linkter:hover {
+    color: gold;
+    text-decoration: underline dotted gold;
+}
+
+.h1index {
+    color: white;
+    margin-left: 8vw;
+    margin-top: 3vw;
+    font-size: 3.5vw;
+}
+
+.spanindex {
+    display: flex;
+    justify-content: center;
+}
+
+.pindex {
+    margin-left: 10vw;
+    font-size: 1.75vw;
+    margin-right: 1.75vw;
+    color: white;
+    background-color: #5E2F2F;
+    padding: 1vw;
+    border: 0.2vw solid #BB8966;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imgindex {
+    margin-right: 10vw;
+    border: black 0.2vw solid;
+    width: 12vw;
+}
+
+.spanindex2 {
+    background-color: rgba(0, 0, 0, 0.301);
+    color: whitesmoke;
+    display: block;
+    margin-top: 3vw;
+    padding: 1vw;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pindex2 {
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.pindex2:hover {
+    color: #32DE76;
+}
+
+.pindex3 {
+    color: #30B064;
+    text-shadow: 2px 2px 5px #32DE76;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-weight: bold;
+    cursor: grabbing;
+}
+
+.pindex4 {
+    margin-left: 30vw;
+    font-size: 150%;
+}
+
+.h1gameplay {
+    display: block;
+    margin-left: 8vw;
+    margin-top: 3vw;
+}
+
+.the-guide {
+    color: orange;
+}
+
+.flex {
+    display: flex;
+}
+
+.pgameplay2 {
+    margin-right: 10vw;
+    margin-left: 10vw;
+    display: block;
+    margin-top: 2vw;
+    font-size: 1.35vw;
+}
+
+.Guideimage {
+    position: relative;
+    margin-right: 18vw;
+    margin-left: 1vw;
+    margin-top: 3vw;
+    width: 2vw;
+}
+
+.Guideimage:hover+.Guidetext {
+    display: block;
+}
+
+.Guidetext {
+    display: none;
+    font-size: 1.3vw;
+    font-weight: bold;
+    color: orange;
+    text-decoration: underline overline orange;
+}
+
+.bases {
+    font-size: 3vw;
+    color: #ad622c;
+    border: #BB8966 dotted 0.2vw;
+}
+
+.h2gameplay {
+    margin-left: 10vw;
+    font-size: 1.9vw;
+    text-decoration: underline #30B064;
+}
+
+.pgameplay3 {
+    margin-left: 11vw;
+    font-size: 1.25vw;
+    margin-right: 16vw;
+}
+
+.h3gameplay {
+    margin-left: 10vw;
+    font-size: 1.9vw;
+    text-decoration: underline #30B064;
+}
+
+.pgameplay4 {
+    margin-left: 10vw;
+    font-size: 1.6vw;
+}
+
+.meeleflex {
+    display: flex;
+    justify-content: center;
+}
+
+.pgameplay5 {
+    margin-left: 11vw;
+    margin-right: 16vw;
+}
+
+.imgarmorsguns {
+    margin-right: 1vw;
+    margin-left: 1vw;
+}
+
+.pink {
+    color: palevioletred;
+}
+
+.last-prism-gif {
+    width: 13vw;
+}
+
+.imgarmorsguns2 {
+    width: 2vw;
+    height: 4vw;
+    margin-right: 2vw;
+    margin-top: 2vw;
+}
+
+.imgarmorsguns3 {
+    width: 3vw;
+}
+
+.comparacion {
+    display: flex;
+    flex-direction: column;
+    margin-right: 18vw;
+}
+
+.imggameplay {
+    width: 10vw;
+}
+
+.comparacion1 {
+    text-align: center;
+}
+
+.pgameplay6 {
+    margin-left: 11vw;
+    font-size: 1.5vw;
+    margin-right: 16vw;
+    margin-top: 3vw;
+}
+
+.imggameplay1 {
+    width: 22vw;
+    margin-left: 37vw;
+}
+
+.h1-h-d {
+    margin-left: 10vw;
+    margin-top: 3vw;
+    text-decoration: underline;
+}
+
+.p-h-d {
+    margin-left: 11vw;
+    margin-right: 10vw;
+    font-size: 1.1vw;
+}
+
+.img-h-d {
+    margin-left: 43vw;
+    margin-top: 1vw;
+}
+
+.img-h-d1 {
+    margin-left: 40vw;
+}
+
+.img-h-d2 {
+    margin-left: 1vw;
+}
+
+.img-h-d3 {
+    margin-left: 45vw;
+    width: 5vw;
+}
+
+.flex1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pindex5 {
+    margin-left: 37vw;
+    font-size: 150%;
+}
+
+.img90 {
+    width: 50%;
+    height: 1%;
+    object-fit: cover;
+    background-color: white;
+    padding: 1%;
+    margin-bottom: 1%;
+    border: black solid 1px;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img91 {
+    width: 711px;
+    height: 400px;
+    background-color: white;
+    padding: 1%;
+    margin-bottom: 1%;
+    border: black solid 1px;
+    margin-left: 26%;
+}
